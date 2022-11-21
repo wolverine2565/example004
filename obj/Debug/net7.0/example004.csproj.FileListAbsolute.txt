@@ -1,0 +1,15 @@
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.csproj.AssemblyReference.cache
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.AssemblyInfoInputs.cache
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.AssemblyInfo.cs
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.csproj.CoreCompileInputs.cache
+/Users/nikolaydanyukin/Desktop/Hello world/example004/bin/Debug/net7.0/example004
+/Users/nikolaydanyukin/Desktop/Hello world/example004/bin/Debug/net7.0/example004.deps.json
+/Users/nikolaydanyukin/Desktop/Hello world/example004/bin/Debug/net7.0/example004.runtimeconfig.json
+/Users/nikolaydanyukin/Desktop/Hello world/example004/bin/Debug/net7.0/example004.dll
+/Users/nikolaydanyukin/Desktop/Hello world/example004/bin/Debug/net7.0/example004.pdb
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.dll
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/refint/example004.dll
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.pdb
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/example004.genruntimeconfig.cache
+/Users/nikolaydanyukin/Desktop/Hello world/example004/obj/Debug/net7.0/ref/example004.dll
